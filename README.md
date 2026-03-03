@@ -6,6 +6,7 @@ The dashboard transforms raw wastewater surveillance data into an accessible, co
 
 Wastewater surveillance is an increasingly valuable tool for monitoring infectious diseases. By aggregating and visualizing these signals geographically and over time, this dashboard helps identify emerging trends and potential hotspots.
 
+## Dashboard at: [Measles Wastewater Signal Dashboard](https://aidea1.github.io/Measles-Wastewater-Signal-Dashboard/)
 ---
 
 ## Data Source
@@ -29,7 +30,7 @@ The dataset is updated periodically by the CDC. The dashboard can be regenerated
 
 ## Dashboard Overview
 
-The file `measles_county_dashboard.html` includes:
+The file `[Measles Wastewater Signal Dashboard](https://aidea1.github.io/Measles-Wastewater-Signal-Dashboard/)` includes:
 
 - An interactive county-level map showing wastewater signal presence or intensity  
 - Time-series visualizations for counties or facilities with available data  
@@ -106,4 +107,22 @@ To make the dashboard publicly accessible:
    - **Folder:** `/root` (or `/docs`)  
 4. Save settings.
 
+Dashboard will be available at: [Measles Wastewater Signal Dashboard](https://aidea1.github.io/Measles-Wastewater-Signal-Dashboard/)
 
+
+---
+## License
+
+This project is released under the MIT License (or another license of your choice).
+
+Including a license clarifies how others may use, modify, or build upon your work.
+
+Citation
+
+If you use this dashboard or workflow in academic or policy work, please cite:
+
+Bhagavathula A. Measles Wastewater Signal Dashboard. GitHub repository. Year. https://www.ndsu.edu/people/akshaya-bhagavathula
+
+You may also cite the underlying CDC dataset:
+
+Centers for Disease Control and Prevention. Wastewater Data for Measles. data.cdc.gov.
