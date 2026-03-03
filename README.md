@@ -24,7 +24,7 @@ The dataset includes:
 Dataset reference:  
 https://data.cdc.gov/Public-Health-Surveillance/CDC-Wastewater-Data-for-Measles/akvg-8vrb
 
-The dataset is updated periodically by the CDC. The dashboard can be regenerated using the included scripts (if provided) to reflect the most recent data.
+The dataset is updated periodically by the CDC. The dashboard will be updated to reflect the most recent data.
 
 ---
 
@@ -74,9 +74,7 @@ The dashboard was generated using Python and common data-science libraries.
 
 **4. Deployment**  
 - Storing the HTML file in this repository  
-- Optional hosting via GitHub Pages  
-
-If scripts such as `fetch_data.py`, `clean_data.py`, and `build_dashboard.py` are included, they allow reproducibility and future updates.
+- Hosting via GitHub Pages  
 
 ---
 
